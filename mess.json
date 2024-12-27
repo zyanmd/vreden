@@ -1,0 +1,14 @@
+{
+    "wait": "*Loading...*",
+    "error": {
+        "Iv": "Link yang kamu berikan tidak valid",
+        "api": "Ups, terjadi kesalahan pada botkey, silahkan hubungi owner untuk memperbaikinya",
+        "slh": "Ups, terjadi kesalahan, silahkan coba lagi dan periksa cara penulisan commandmu"
+    },
+    "OnlyGrup": "Command Khusus Grup!!",
+    "OnlyPM": "Command Khusus Private Chat!!",
+    "GrupAdmin": "Khusus Admin Grup!!",
+    "BotAdmin": "Bot Harus menjadi admin",
+    "OnlyOwner": "Khusus Owner Bot!!",
+    "OnlyPrem": "Khusus VIP User!!"
+}
